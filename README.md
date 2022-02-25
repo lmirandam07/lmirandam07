@@ -1,4 +1,5 @@
-<h1 align="center">Hey 🙌,I'm glad you're here, my name is Luis</h1>
+<h1 align="center">Hey 🙌, I'm glad you're here. My name is Luis
+</h1>
 <h3 align="center">A passionate Python developer from Panama enthusiast of artificial intelligence and new technologies!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirandam07&label=Profile%20views&color=0e75b6&style=flat" alt="lmirandam07" /> </p>
