@@ -1,8 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirandam07&label=Profile%20views&color=0e75b6&style=flat" alt="lmirandam07" /> </p>
 <h1 align="center">Hey 🙌, I'm glad you're here. My name is Luis
 </h1>
 <h3 align="center">Data Analyst from Panama with a passion for Artificial Intelligence and Emerging Technologies!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirandam07&label=Profile%20views&color=0e75b6&style=flat" alt="lmirandam07" /> </p>
+I'm Luis Miranda 🥶, a data analyst with over 2 years of professional experience, skilled in extracting valuable insights from complex datasets. With expertise in statistical analysis and a passion for transforming data into actionable recommendations, I help businesses make informed decisions and achieve success through the power of data.  
 
 - 🔭 I’m currently working on [Streamlit web app for managing Kindle highlights](https://github.com/lmirandam07/kindle-highlights-manager)
 
@@ -12,12 +12,21 @@
 
 - 📫 How to reach me **lmirandam07@gmail.com**
 
-- 🗣️ Languages I speak **Spanish (native), English (B2), German (A2)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lmirandam07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lmirandam07" height="30" width="40" /></a>
-<a href="https://kaggle.com/lmirandam07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lmirandam07" height="30" width="40" /></a>
+<div align="center">
+<a href="https://github.com/lmirandam07" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/lmirandam" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/lmirandam07" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/lmirandam07" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
