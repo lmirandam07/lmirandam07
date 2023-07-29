@@ -1,12 +1,12 @@
 <h1 align="center">Hey 🙌, I'm glad you're here. My name is Luis
 </h1>
-<h3 align="center">A passionate Python developer from Panama enthusiast of artificial intelligence and new technologies!</h3>
+<h3 align="center">Data Analyst from Panama with a passion for Artificial Intelligence and Emerging Technologies!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirandam07&label=Profile%20views&color=0e75b6&style=flat" alt="lmirandam07" /> </p>
 
 - 🔭 I’m currently working on [Streamlit web app for managing Kindle highlights](https://github.com/lmirandam07/kindle-highlights-manager)
 
-- 🌱 I’m currently learning **Machine Learning, Flutter**
+- 🌱 I’m currently learning **Machine Learning, Power BI**
 
 - ⚡ Know about me on [Personal Website](https://lmirandam.com/)
 
