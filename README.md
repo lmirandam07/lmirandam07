@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirandam07&label=Profile%20views&color=0e75b6&style=flat" alt="lmirandam07" /> </p>
 <h1 align="center">Hey 🙌, I'm glad you're here. My name is Luis
 </h1>
-<h3 align="center">Data Analyst from Panama with a passion for Artificial Intelligence and Emerging Technologies!</h3>
-I'm Luis Miranda 🥶, a data analyst with over 2 years of professional experience, skilled in extracting valuable insights from complex datasets. With expertise in statistical analysis and a passion for transforming data into actionable recommendations, I help businesses make informed decisions and achieve success through the power of data.  
+<h3 align="center">Data Engineer from Panama with a passion for Artificial Intelligence and Emerging Technologies!</h3>
+I'm Luis Miranda 🥶, a data engineer with over 2 years of professional experience, skilled in extracting valuable insights from complex datasets. With expertise in statistical analysis and a passion for transforming data into actionable recommendations, I help businesses make informed decisions and achieve success through the power of data.  
 
 - 🔭 I’m currently working on [Streamlit web app for managing Kindle highlights](https://github.com/lmirandam07/kindle-highlights-manager)
 
